@@ -18,8 +18,8 @@ Shipment-Journey/
 1. **Clone or Download the Repository**.
    
    ```bash
-   git clone https://github.com/username/Shipment-Journey.git
-   cd Shipment-Journey
+   git clone https://github.com/ui-vivek/Shipment-Journey-Map.git
+   cd Shipment-Journey-Map
    ```
 
 2. **Open `index.html` in a Web Browser**.
